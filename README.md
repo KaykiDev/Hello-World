@@ -1,2 +1,3 @@
 # Hello-World
-sei lá oq eu to fazendo
+sei lá oq eu to fazendo,
+acho q to entendendo um pouco...
